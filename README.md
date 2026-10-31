@@ -1,2 +1,3 @@
 # vpncom
-Placeholder repo for the vpncom project
+
+Placeholder package. The `vpncom` name is reserved for a future project.
